@@ -1,6 +1,6 @@
-# Bede-Casino
+# Stuntman
 
-This repository shows a very simple stunt man "tinder like" selection choice built in React Native.
+This repository shows a very simple stuntman "tinder like" selection choice built in React Native.
 
 <hr>
 
@@ -30,4 +30,10 @@ Run the npx command to build on ios
 $ npx react-native run-ios
 ```
 
-Please make sure you are using Ruby version 2.7.5 as this uses the latest React Native version. (Version 0.7 was a big release utilising the new hermes engine by default)
+Please make sure you are using Ruby version `2.7.5` as this uses the latest React Native version. (Version 0.7 was a big release utilising the new hermes engine by default)
+
+<h3>Example in use (IOS 13)</h3>
+
+
+https://user-images.githubusercontent.com/14294126/204936551-77083828-4438-4637-8a15-fb7ffe236b9c.mp4
+
