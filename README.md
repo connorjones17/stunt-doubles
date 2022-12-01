@@ -37,3 +37,8 @@ Please make sure you are using Ruby version `2.7.5` as this uses the latest Reac
 
 https://user-images.githubusercontent.com/14294126/204936551-77083828-4438-4637-8a15-fb7ffe236b9c.mp4
 
+
+<h3>References</h3>
+
+All stuntmen names and images were used and are credited to the Stuntmen's Association.
+Website: https://www.stuntmen.com/members/
