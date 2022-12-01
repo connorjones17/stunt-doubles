@@ -12,7 +12,7 @@ Clone this repository to your local machine
 
 Go to the project directory
 
-``` $ cd Bede-Casino ```
+``` $ cd stunt-doubles ```
 
 Install all the dependencies using npm
 
